@@ -1,5 +1,3 @@
-import 
-
 function generateJoke() {
     return "you aint it"
 }
